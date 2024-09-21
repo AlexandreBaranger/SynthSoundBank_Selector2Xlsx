@@ -1,0 +1,98 @@
+{
+    "Sons": {
+        "Générique": {
+            "ALIEN": {
+                "description": "Son d'origine extraterrestre, souvent étrange, perturbant ou mystérieux.",
+                "related": ["strange", "mysterious", "extraterrestrial", "weird", "alien", "unusual"]
+            },
+            "BURN": {
+                "description": "Crépitement du feu, souvent associé à un objet qui brûle ou à des flammes.",
+                "related": ["fire", "flames", "heat", "burning", "ignite", "conflagration"]
+            },
+            "Footsteps": {
+                "description": "Sons de pas, souvent associés à quelqu'un marchant ou courant.",
+                "related": ["marcher", "pas", "running", "walking", "stomping", "trotter", "marchant"]
+            }
+        },
+        "Sons de Whoosh": {
+            "Light whoosh": {
+                "description": "Un léger mouvement d'air, souvent causé par un petit objet en déplacement rapide.",
+                "related": ["léger", "air movement", "swift object", "small object"]
+            },
+            "Heavy whoosh": {
+                "description": "Un déplacement puissant d'air, souvent produit par un objet massif.",
+                "related": ["puissant", "massive object", "strong air movement"]
+            },
+            "Wind whoosh": {
+                "description": "Son du vent, plus ou moins fort selon l'environnement.",
+                "related": ["wind", "vent", "breeze", "gust", "air"]
+            }
+        },
+        "Sons Vibrants et Continus": {
+            "Buzzing": {
+                "description": "Un bourdonnement constant, souvent produit par des appareils électriques ou des insectes.",
+                "related": ["insectes", "électriques", "constant", "vibration"]
+            },
+            "Humming": {
+                "description": "Un son doux et continu, souvent associé à des machines en marche.",
+                "related": ["machine", "continuous", "soft sound", "vibration"]
+            }
+        },
+        "Sons de Mouvement": {
+            "Footsteps": {
+                "description": "Sons de pas, souvent associés à quelqu'un marchant ou courant.",
+                "related": ["marcher", "pas", "running", "walking", "stomping"]
+            },
+            "Whooshing": {
+                "description": "Son de mouvement rapide, souvent produit par des objets se déplaçant rapidement.",
+                "related": ["movement", "rapid", "swift", "air movement"]
+            },
+            "Sliding": {
+                "description": "Son de glissement, souvent associé à des objets ou personnes qui se déplacent sans friction.",
+                "related": ["glisser", "smooth movement", "frictionless"]
+            },
+            "Flapping": {
+                "description": "Bruit produit par des ailes ou des objets légers qui battent.",
+                "related": ["ailes", "légers", "battement", "movement"]
+            }
+        },
+        "Sons d'Impact": {
+            "Thudding": {
+                "description": "Coup sourd, souvent produit par la chute ou le choc d'un objet lourd.",
+                "related": ["coup sourd", "heavy impact", "drop", "collision"]
+            },
+            "Clapping": {
+                "description": "Claquement des mains, souvent utilisé pour exprimer l'appréciation ou pour marquer un rythme.",
+                "related": ["mains", "appréciation", "rythme", "bruit sec"]
+            },
+            "Punching": {
+                "description": "Coup de poing, souvent associé à des scènes de combat ou de lutte.",
+                "related": ["combat", "coup de poing", "lutte", "impact"]
+            }
+        },
+        "Sons d'Éléments Naturels": {
+            "Earthquake": {
+                "description": "Sons associés à un séisme, incluant des grondements et des craquements de terre.",
+                "related": ["séisme", "grondement", "craquement", "terre"]
+            },
+            "Rain": {
+                "description": "Sons de pluie, incluant des gouttes qui tombent et des éclaboussures.",
+                "related": ["pluie", "gouttes", "éclaboussures", "averse"]
+            },
+            "Wind": {
+                "description": "Sons du vent, variant de léger à fort selon l'intensité.",
+                "related": ["vent", "breeze", "gust", "souffle"]
+            }
+        },
+        "Sons Métalliques": {
+            "Clanging": {
+                "description": "Son métallique fort, souvent produit par des objets en métal frappés ensemble.",
+                "related": ["métal", "fort", "impact", "bruit"]
+            },
+            "Rattling": {
+                "description": "Bruitage métallique léger et répétitif, souvent produit par des objets mobiles.",
+                "related": ["métallique", "léger", "répétitif", "mobile"]
+            }
+        }
+    }
+}
